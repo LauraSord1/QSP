@@ -1,1 +1,1 @@
-Quantum state preparation (QSP) is first and crucial step for finding qunatum algorithms. 
+Quantum state preparation (QSP) is first and crucial step for finding quantum algorithms. 
